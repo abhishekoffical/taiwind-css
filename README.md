@@ -26,3 +26,7 @@ Through this project, I gained hands-on experience with:
 - Mobile-first development approach
 
 <img width="1812" height="957" alt="image" src="https://github.com/user-attachments/assets/25837494-8b10-40f4-825f-77258fd68459" />
+for large screen
+<img width="557" height="911" alt="image" src="https://github.com/user-attachments/assets/9239567a-e955-460f-9af4-be0bb499599d" /> 
+for small screen
+
